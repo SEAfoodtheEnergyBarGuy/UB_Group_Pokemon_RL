@@ -1,2 +1,4 @@
 # Pokimon_RL
-University Of Bath Project
+Msc Project
+CM50XXX RL
+MAIN SCRIPT ONLY
